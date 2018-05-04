@@ -1,6 +1,8 @@
 # Infinity War Screenplay with Tensorflow
 Generates a script for Infinity War (Part 2) by training a RNN on all the scripts of the previous Marvel Cinematic Movies. Built with Python and Tensorflow
 
+![Infinity War](http://cdn.collider.com/wp-content/uploads/2018/04/avengers-infinity-war-imax-social.jpeg "Infinity War")
+
 The basis of this project comes from Martin Gorner, I just added a small portion to it.
 Original project: https://github.com/martin-gorner/tensorflow-rnn-shakespeare
 
