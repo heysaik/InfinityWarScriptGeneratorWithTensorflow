@@ -58,7 +58,7 @@ Tony Stark and then when I was the world of the world.
 ```
 
 ## Modifications
-You can modify this program to suit your own needs. Simply change the text files in the `marvel` folder and enter teh following lines into Terminal.
+You can modify this program to suit your own needs. Simply change the text files in the `marvel` folder and enter the following lines into Terminal.
 
 ```
 > python3 rnn_train.py
